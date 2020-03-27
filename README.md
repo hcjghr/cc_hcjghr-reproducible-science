@@ -11,7 +11,7 @@ Usage
 -----
 To start a new science project:
 
-`cookiecutter gh:mkrapp/hcjghr/cc_hcjghr-reproducible-science`
+`cookiecutter gh:hcjghr/cc_hcjghr-reproducible-science`
 
 Project Structure
 -----------------
