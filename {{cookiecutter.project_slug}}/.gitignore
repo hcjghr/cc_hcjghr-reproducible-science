@@ -102,3 +102,7 @@ bin/
 
 # exclude external models from source control
 /src/external/
+
+# exclude experiments
+/experiments
+
