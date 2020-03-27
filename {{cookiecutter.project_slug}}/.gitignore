@@ -104,5 +104,4 @@ bin/
 /src/external/
 
 # exclude experiments
-/experiments
-
+experiments/
